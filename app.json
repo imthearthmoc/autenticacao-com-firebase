@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "cadm-atividade-expo-router",
+    "slug": "cadm-atividade-expo-router"
+  }
+}
